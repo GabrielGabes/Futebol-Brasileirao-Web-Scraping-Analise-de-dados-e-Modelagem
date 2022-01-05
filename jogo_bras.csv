@@ -1,0 +1,381 @@
+data,mandante,placar_m,placar_v,visitante,p_m,p_v,tc_m,tc_v,cg_m,cg_v,d_m,d_v,local,campeonato,links
+2021-09-12,Fortaleza,2,1,Bahia,0.52,0.48,14,9,6,6,0.56,0.44,Castelão,Brasileirão Série A,/pt-br/match/2205040
+2021-09-12,Grêmio,4,3,Atlético-MG,0.37,0.63,7,13,4,7,0.48,0.52,Grêmio Arena,Brasileirão Série A,/pt-br/match/2205041
+2021-09-12,Juventude,1,0,Corinthians,0.44,0.56,17,1,6,1,0.56,0.44,Alfredo Jaconi,Brasileirão Série A,/pt-br/match/2205042
+2021-09-12,Palmeiras,1,0,Ceará,0.31,0.69,12,31,2,9,0.45,0.55,Arena Barueri,Brasileirão Série A,/pt-br/match/2205043
+2021-09-12,Red Bull Bragantino,1,0,Internacional,0.44,0.56,23,4,4,1,0.53,0.47,Estádio Nabi Abi Chedid,Brasileirão Série A,/pt-br/match/2205044
+2021-09-12,Santos,1,1,Cuiabá,0.62,0.38,13,8,5,3,0.53,0.47,Estádio Vila Belmiro (Urbano Caldeira),Brasileirão Série A,/pt-br/match/2205045
+2021-09-12,América-MG,2,0,São Paulo,0.45,0.55,19,11,4,2,0.54,0.46,Estádio Raimundo Sampaio (Independência),Brasileirão Série A,/pt-br/match/2205046
+2021-09-12,Sport Recife,1,1,Athletico Paranaense,0.63,0.37,18,7,6,4,0.54,0.46,Arena Pernambuco,Brasileirão Série A,/pt-br/match/2205037
+2021-09-12,Atlético-GO,2,0,Flamengo,0.52,0.48,13,12,3,6,0.45,0.55,Estádio Antônio Accioly,Brasileirão Série A,/pt-br/match/2205038
+2021-09-12,Fluminense,3,0,Chapecoense,0.68,0.32,22,3,8,0,0.51,0.49,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2205039
+2021-06-12,Chapecoense,0,1,Sport Recife,0.29,0.71,14,25,6,4,0.55,0.45,Arena Condá,Brasileirão Série A,/pt-br/match/2205031
+2021-06-12,Cuiabá,1,0,Fortaleza,0.36,0.64,8,13,1,3,0.49,0.51,Arena Pantanal,Brasileirão Série A,/pt-br/match/2205033
+2021-06-12,Flamengo,0,1,Santos,0.64,0.36,9,9,4,4,0.41,0.59,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2205034
+2021-06-12,Internacional,1,2,Atlético-GO,0.61,0.39,23,11,6,4,0.51,0.49,Estadio Beira-Rio,Brasileirão Série A,/pt-br/match/2205035
+2021-06-12,Athletico Paranaense,0,0,Palmeiras,0.72,0.28,23,4,4,0,0.53,0.47,Arena da Baixada,Brasileirão Série A,/pt-br/match/2205027
+2021-06-12,São Paulo,3,1,Juventude,0.54,0.46,13,9,6,3,0.44,0.56,Estadio Cicero Pompeu de Toledo (Morumbi),Brasileirão Série A,/pt-br/match/2205032
+2021-05-12,Ceará,0,0,América-MG,0.53,0.47,15,18,3,1,0.55,0.46,Castelão,Brasileirão Série A,/pt-br/match/2205030
+2021-05-12,Atlético-MG,4,3,Red Bull Bragantino,0.62,0.38,13,18,6,11,0.5,0.5,Estadio Mineirão,Brasileirão Série A,/pt-br/match/2205028
+2021-05-12,Bahia,2,0,Fluminense,0.37,0.63,14,9,6,1,0.59,0.41,Arena Fonte Nova,Brasileirão Série A,/pt-br/match/2205029
+2021-05-12,Corinthians,1,1,Grêmio,0.72,0.28,11,12,3,3,0.61,0.39,Neo Química Arena,Brasileirão Série A,/pt-br/match/2205036
+2021-03-12,Fortaleza,1,0,Juventude,0.53,0.47,15,11,4,3,0.47,0.53,Castelão,Brasileirão Série A,/pt-br/match/2205023
+2021-03-12,Chapecoense,0,1,Atlético-GO,0.43,0.57,8,9,0,1,0.48,0.52,Arena Condá,Brasileirão Série A,/pt-br/match/2205019
+2021-11-30,Cuiabá,1,3,Palmeiras,0.59,0.41,21,13,6,5,0.47,0.53,Arena Pantanal,Brasileirão Série A,/pt-br/match/2205021
+2021-11-30,Flamengo,2,1,Ceará,0.52,0.48,15,12,5,4,0.58,0.43,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2205022
+2021-11-28,Internacional,1,1,Santos,0.54,0.46,17,13,6,5,0.53,0.48,Estadio Beira-Rio,Brasileirão Série A,/pt-br/match/2205024
+2021-11-28,Atlético-MG,2,1,Fluminense,0.48,0.52,9,6,4,4,0.54,0.46,Estadio Mineirão,Brasileirão Série A,/pt-br/match/2205017
+2021-11-28,Corinthians,1,0,Athletico Paranaense,0.66,0.34,16,11,5,2,0.48,0.52,Neo Química Arena,Brasileirão Série A,/pt-br/match/2205020
+2021-11-27,São Paulo,2,0,Sport Recife,0.49,0.51,20,7,9,4,0.53,0.48,Estadio Cicero Pompeu de Toledo (Morumbi),Brasileirão Série A,/pt-br/match/2205026
+2021-11-27,Red Bull Bragantino,1,1,América-MG,0.51,0.49,11,13,5,3,0.44,0.56,Estádio Nabi Abi Chedid,Brasileirão Série A,/pt-br/match/2205025
+2021-11-26,Bahia,3,1,Grêmio,0.34,0.66,13,11,6,3,0.47,0.53,Arena Fonte Nova,Brasileirão Série A,/pt-br/match/2205018
+2021-03-12,Sport Recife,1,1,Flamengo,0.47,0.53,15,22,9,7,0.49,0.51,Arena Pernambuco,Brasileirão Série A,/pt-br/match/2205007
+2021-03-12,Athletico Paranaense,1,0,Cuiabá,0.65,0.35,19,8,3,1,0.46,0.54,Arena da Baixada,Brasileirão Série A,/pt-br/match/2205008
+2021-02-12,Grêmio,3,0,São Paulo,0.45,0.55,17,5,8,1,0.49,0.51,Grêmio Arena,Brasileirão Série A,/pt-br/match/2205012
+2021-11-30,América-MG,3,0,Chapecoense,0.53,0.47,24,10,7,3,0.56,0.44,Estádio Raimundo Sampaio (Independência),Brasileirão Série A,/pt-br/match/2205016
+2021-11-30,Juventude,1,0,Red Bull Bragantino,0.46,0.54,9,13,2,0,0.53,0.47,Alfredo Jaconi,Brasileirão Série A,/pt-br/match/2205013
+2021-11-29,Atlético-GO,2,1,Bahia,0.48,0.52,12,14,3,2,0.55,0.46,Estádio Antônio Accioly,Brasileirão Série A,/pt-br/match/2205015
+2021-11-25,Ceará,2,1,Corinthians,0.37,0.63,15,15,5,6,0.44,0.56,Castelão,Brasileirão Série A,/pt-br/match/2205010
+2021-11-25,Santos,2,0,Fortaleza,0.56,0.44,15,11,6,2,0.47,0.53,Estádio Vila Belmiro (Urbano Caldeira),Brasileirão Série A,/pt-br/match/2205009
+2021-11-24,Fluminense,1,0,Internacional,0.3,0.7,9,14,1,4,0.51,0.49,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2205011
+2021-11-23,Palmeiras,2,2,Atlético-MG,0.43,0.57,11,15,7,5,0.61,0.39,Allianz Parque,Brasileirão Série A,/pt-br/match/2205014
+2021-11-18,Sport Recife,1,0,Bahia,0.42,0.58,16,14,4,4,0.48,0.52,Arena Pernambuco,Brasileirão Série A,/pt-br/match/2204987
+2021-11-17,Flamengo,1,0,Corinthians,0.57,0.43,22,6,6,1,0.49,0.51,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2204990
+2021-11-17,Juventude,1,0,Fluminense,0.33,0.67,15,7,7,1,0.53,0.47,Alfredo Jaconi,Brasileirão Série A,/pt-br/match/2204993
+2021-11-17,Palmeiras,0,2,São Paulo,0.57,0.43,16,16,4,6,0.51,0.5,Allianz Parque,Brasileirão Série A,/pt-br/match/2204994
+2021-11-17,Fortaleza,0,4,Ceará,0.63,0.37,17,13,8,5,0.46,0.54,Castelão,Brasileirão Série A,/pt-br/match/2204996
+2021-11-17,América-MG,0,0,Atlético-GO,0.59,0.41,23,14,4,1,0.55,0.46,Estádio Raimundo Sampaio (Independência),Brasileirão Série A,/pt-br/match/2204991
+2021-11-17,Santos,2,0,Chapecoense,0.43,0.57,9,15,3,5,0.54,0.46,Estádio Vila Belmiro (Urbano Caldeira),Brasileirão Série A,/pt-br/match/2204995
+2021-11-17,Cuiabá,1,0,Internacional,0.48,0.52,21,11,5,4,0.56,0.44,Arena Pantanal,Brasileirão Série A,/pt-br/match/2204989
+2021-11-16,Grêmio,3,0,Red Bull Bragantino,0.53,0.47,25,7,10,2,0.55,0.45,Grêmio Arena,Brasileirão Série A,/pt-br/match/2204992
+2021-11-16,Athletico Paranaense,0,1,Atlético-MG,0.44,0.56,8,9,1,2,0.51,0.5,Arena da Baixada,Brasileirão Série A,/pt-br/match/2204988
+2021-02-12,Bahia,2,3,Atlético-MG,0.47,0.53,13,19,3,9,0.46,0.54,Arena Fonte Nova,Brasileirão Série A,/pt-br/match/2204977
+2021-11-14,Ceará,2,1,Sport Recife,0.38,0.62,12,21,3,8,0.5,0.51,Castelão,Brasileirão Série A,/pt-br/match/2204980
+2021-11-14,Chapecoense,0,2,Juventude,0.55,0.45,12,10,4,3,0.49,0.51,Arena Condá,Brasileirão Série A,/pt-br/match/2204981
+2021-11-14,Fluminense,2,1,Palmeiras,0.53,0.47,9,11,3,4,0.55,0.45,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2204983
+2021-11-14,São Paulo,0,4,Flamengo,0.4,0.6,6,15,3,7,0.42,0.58,Estadio Cicero Pompeu de Toledo (Morumbi),Brasileirão Série A,/pt-br/match/2204986
+2021-11-13,Corinthians,3,2,Cuiabá,0.55,0.45,12,9,4,6,0.46,0.55,Neo Química Arena,Brasileirão Série A,/pt-br/match/2204982
+2021-11-13,Internacional,2,1,Athletico Paranaense,0.47,0.53,16,10,4,1,0.51,0.5,Estadio Beira-Rio,Brasileirão Série A,/pt-br/match/2204984
+2021-11-13,Red Bull Bragantino,3,0,Fortaleza,0.44,0.56,11,13,5,2,0.43,0.57,Estádio Nabi Abi Chedid,Brasileirão Série A,/pt-br/match/2204985
+2021-11-13,América-MG,3,1,Grêmio,0.4,0.6,12,26,6,8,0.52,0.48,Estádio Raimundo Sampaio (Independência),Brasileirão Série A,/pt-br/match/2204979
+2021-11-13,Atlético-GO,0,0,Santos,0.66,0.34,9,6,3,0,0.5,0.5,Estádio Antônio Accioly,Brasileirão Série A,/pt-br/match/2204978
+2021-11-23,Atlético-GO,1,1,Juventude,0.51,0.49,15,12,8,5,0.48,0.52,Estádio Antônio Accioly,Brasileirão Série A,/pt-br/match/2204966
+2021-08-11,Chapecoense,2,2,Flamengo,0.4,0.6,14,21,3,10,0.41,0.59,Arena Condá,Brasileirão Série A,/pt-br/match/2204961
+2021-07-11,Ceará,1,0,Cuiabá,0.49,0.51,16,7,4,1,0.49,0.51,Castelão,Brasileirão Série A,/pt-br/match/2204960
+2021-07-11,Bahia,1,0,São Paulo,0.43,0.57,15,8,4,3,0.59,0.41,Arena Fonte Nova,Brasileirão Série A,/pt-br/match/2204965
+2021-07-11,Santos,0,2,Palmeiras,0.49,0.51,12,15,4,6,0.53,0.47,Estádio Vila Belmiro (Urbano Caldeira),Brasileirão Série A,/pt-br/match/2204957
+2021-07-11,Atlético-MG,1,0,América-MG,0.57,0.43,18,16,7,4,0.42,0.58,Estadio Mineirão,Brasileirão Série A,/pt-br/match/2204958
+2021-07-11,Red Bull Bragantino,0,2,Athletico Paranaense,0.59,0.41,11,8,3,5,0.51,0.5,Estádio Nabi Abi Chedid,Brasileirão Série A,/pt-br/match/2204959
+2021-06-11,Fluminense,1,0,Sport Recife,0.62,0.38,21,8,3,2,0.54,0.46,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2204963
+2021-06-11,Internacional,1,0,Grêmio,0.39,0.61,9,8,2,5,0.5,0.5,Estadio Beira-Rio,Brasileirão Série A,/pt-br/match/2204964
+2021-06-11,Corinthians,1,0,Fortaleza,0.59,0.41,14,9,6,2,0.49,0.51,Neo Química Arena,Brasileirão Série A,/pt-br/match/2204962
+2021-11-11,Flamengo,3,0,Bahia,0.68,0.32,17,7,6,2,0.48,0.52,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2204970
+2021-10-11,Fortaleza,1,1,São Paulo,0.4,0.6,15,11,3,3,0.54,0.46,Castelão,Brasileirão Série A,/pt-br/match/2204971
+2021-10-11,Juventude,2,1,Internacional,0.46,0.54,14,14,3,3,0.52,0.48,Alfredo Jaconi,Brasileirão Série A,/pt-br/match/2204973
+2021-10-11,Sport Recife,2,3,América-MG,0.41,0.59,11,14,3,6,0.48,0.53,Arena Pernambuco,Brasileirão Série A,/pt-br/match/2204976
+2021-10-11,Palmeiras,4,0,Atlético-GO,0.49,0.51,14,10,7,0,0.54,0.46,Allianz Parque,Brasileirão Série A,/pt-br/match/2204974
+2021-10-11,Atlético-MG,3,0,Corinthians,0.46,0.54,11,7,5,0,0.38,0.62,Estadio Mineirão,Brasileirão Série A,/pt-br/match/2204968
+2021-10-11,Santos,2,0,Red Bull Bragantino,0.42,0.58,11,14,5,3,0.49,0.51,Estádio Vila Belmiro (Urbano Caldeira),Brasileirão Série A,/pt-br/match/2204975
+2021-10-11,Athletico Paranaense,2,1,Ceará,0.52,0.48,13,14,4,4,0.41,0.59,Arena da Baixada,Brasileirão Série A,/pt-br/match/2204967
+2021-09-11,Grêmio,1,0,Fluminense,0.46,0.54,25,11,7,5,0.45,0.55,Grêmio Arena,Brasileirão Série A,/pt-br/match/2204972
+2021-04-11,Cuiabá,0,0,Chapecoense,0.57,0.43,16,7,3,2,0.52,0.48,Arena Pantanal,Brasileirão Série A,/pt-br/match/2204969
+2021-01-11,Corinthians,1,0,Chapecoense,0.8,0.2,18,2,5,2,0.55,0.45,Neo Química Arena,Brasileirão Série A,/pt-br/match/2204950
+2021-01-11,Cuiabá,1,0,Red Bull Bragantino,0.58,0.42,20,13,6,8,0.58,0.42,Arena Pantanal,Brasileirão Série A,/pt-br/match/2204951
+2021-10-31,Sport Recife,2,0,Atlético-GO,0.49,0.51,22,16,6,3,0.57,0.43,Arena Pernambuco,Brasileirão Série A,/pt-br/match/2204955
+2021-10-31,São Paulo,1,0,Internacional,0.53,0.47,21,9,8,3,0.56,0.44,Estadio Cicero Pompeu de Toledo (Morumbi),Brasileirão Série A,/pt-br/match/2204953
+2021-10-31,Ceará,1,0,Fluminense,0.27,0.73,8,17,2,0,0.46,0.54,Castelão,Brasileirão Série A,/pt-br/match/2204949
+2021-10-31,Grêmio,1,3,Palmeiras,0.49,0.51,15,11,5,5,0.49,0.51,Grêmio Arena,Brasileirão Série A,/pt-br/match/2204956
+2021-10-30,América-MG,2,1,Fortaleza,0.45,0.55,23,12,8,8,0.5,0.5,Estádio Raimundo Sampaio (Independência),Brasileirão Série A,/pt-br/match/2204947
+2021-10-30,Juventude,0,0,Bahia,0.6,0.4,18,9,3,0,0.48,0.52,Alfredo Jaconi,Brasileirão Série A,/pt-br/match/2204954
+2021-10-30,Flamengo,1,0,Atlético-MG,0.37,0.63,8,16,3,2,0.47,0.53,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2204952
+2021-10-30,Athletico Paranaense,0,1,Santos,0.67,0.33,29,10,6,2,0.47,0.53,Arena da Baixada,Brasileirão Série A,/pt-br/match/2204948
+2021-11-24,São Paulo,0,0,Athletico Paranaense,0.71,0.29,20,3,2,0,0.57,0.43,Estadio Cicero Pompeu de Toledo (Morumbi),Brasileirão Série A,/pt-br/match/2204997
+2021-11-21,Bahia,0,0,Cuiabá,0.55,0.45,19,8,3,0,0.47,0.53,Arena Fonte Nova,Brasileirão Série A,/pt-br/match/2205002
+2021-11-21,Fluminense,2,0,América-MG,0.48,0.52,11,9,5,3,0.55,0.45,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2204999
+2021-11-21,Corinthians,2,0,Santos,0.65,0.35,23,9,11,1,0.63,0.37,Neo Química Arena,Brasileirão Série A,/pt-br/match/2205001
+2021-11-20,Internacional,1,2,Flamengo,0.52,0.48,22,15,9,8,0.43,0.57,Estadio Beira-Rio,Brasileirão Série A,/pt-br/match/2205004
+2021-11-20,Atlético-GO,1,1,Ceará,0.6,0.4,20,5,4,2,0.61,0.39,Estádio Antônio Accioly,Brasileirão Série A,/pt-br/match/2205006
+2021-11-20,Atlético-MG,2,0,Juventude,0.61,0.39,18,2,5,0,0.46,0.54,Estadio Mineirão,Brasileirão Série A,/pt-br/match/2204998
+2021-11-20,Chapecoense,1,3,Grêmio,0.37,0.63,10,24,4,6,0.43,0.57,Arena Condá,Brasileirão Série A,/pt-br/match/2205000
+2021-11-20,Fortaleza,1,0,Palmeiras,0.33,0.67,8,13,3,4,0.39,0.61,Castelão,Brasileirão Série A,/pt-br/match/2205003
+2021-10-28,Red Bull Bragantino,3,0,Sport Recife,0.45,0.55,16,17,3,4,0.51,0.5,Estádio Nabi Abi Chedid,Brasileirão Série A,/pt-br/match/2205005
+2021-10-25,Palmeiras,2,1,Sport Recife,0.65,0.35,37,6,16,1,0.57,0.43,Allianz Parque,Brasileirão Série A,/pt-br/match/2204944
+2021-10-25,Atlético-GO,2,0,Grêmio,0.46,0.54,11,19,6,5,0.51,0.49,Estádio Antônio Accioly,Brasileirão Série A,/pt-br/match/2204941
+2021-10-24,Bahia,3,0,Chapecoense,0.53,0.47,15,11,6,1,0.53,0.47,Arena Fonte Nova,Brasileirão Série A,/pt-br/match/2204939
+2021-10-24,Red Bull Bragantino,1,0,São Paulo,0.44,0.56,16,15,5,5,0.5,0.5,Estádio Nabi Abi Chedid,Brasileirão Série A,/pt-br/match/2204945
+2021-10-24,Atlético-MG,2,1,Cuiabá,0.54,0.46,21,7,9,2,0.54,0.46,Estadio Mineirão,Brasileirão Série A,/pt-br/match/2204938
+2021-10-24,Internacional,2,2,Corinthians,0.49,0.51,11,13,6,2,0.33,0.67,Estadio Beira-Rio,Brasileirão Série A,/pt-br/match/2204942
+2021-10-23,Fortaleza,3,0,Athletico Paranaense,0.54,0.46,16,13,7,4,0.56,0.44,Castelão,Brasileirão Série A,/pt-br/match/2204937
+2021-10-23,Fluminense,3,1,Flamengo,0.27,0.73,11,16,6,3,0.52,0.48,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2204940
+2021-10-23,Juventude,0,0,Ceará,0.63,0.37,26,4,8,2,0.49,0.52,Alfredo Jaconi,Brasileirão Série A,/pt-br/match/2204943
+2021-10-23,Santos,0,2,América-MG,0.49,0.51,14,16,6,4,0.55,0.45,Estádio Vila Belmiro (Urbano Caldeira),Brasileirão Série A,/pt-br/match/2204946
+2021-10-18,São Paulo,1,0,Corinthians,0.45,0.55,8,10,2,2,0.48,0.52,Estadio Cicero Pompeu de Toledo (Morumbi),Brasileirão Série A,/pt-br/match/2204936
+2021-10-17,Flamengo,0,0,Cuiabá,0.71,0.29,16,2,4,0,0.46,0.54,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2204932
+2021-10-17,Sport Recife,0,0,Santos,0.46,0.54,14,10,3,2,0.52,0.48,Ilha do Retiro,Brasileirão Série A,/pt-br/match/2204935
+2021-10-17,Atlético-GO,2,1,Atlético-MG,0.36,0.64,9,22,4,3,0.43,0.57,Estádio Antônio Accioly,Brasileirão Série A,/pt-br/match/2204929
+2021-10-17,Ceará,2,2,Red Bull Bragantino,0.59,0.41,23,19,9,6,0.58,0.42,Castelão,Brasileirão Série A,/pt-br/match/2204930
+2021-10-17,Grêmio,3,2,Juventude,0.55,0.45,14,6,7,3,0.5,0.5,Grêmio Arena,Brasileirão Série A,/pt-br/match/2204933
+2021-10-17,Athletico Paranaense,0,1,Fluminense,0.52,0.48,16,6,6,2,0.5,0.5,Arena da Baixada,Brasileirão Série A,/pt-br/match/2204928
+2021-10-17,Palmeiras,1,0,Internacional,0.53,0.47,16,14,3,4,0.59,0.41,Allianz Parque,Brasileirão Série A,/pt-br/match/2204934
+2021-10-16,América-MG,0,0,Bahia,0.55,0.45,15,13,6,3,0.52,0.48,Estádio Raimundo Sampaio (Independência),Brasileirão Série A,/pt-br/match/2204927
+2021-10-16,Chapecoense,1,2,Fortaleza,0.37,0.63,8,14,1,5,0.43,0.57,Arena Condá,Brasileirão Série A,/pt-br/match/2204931
+2021-10-14,Cuiabá,1,0,Sport Recife,0.55,0.45,16,13,8,3,0.47,0.53,Arena Pantanal,Brasileirão Série A,/pt-br/match/2204921
+2021-10-14,São Paulo,1,1,Ceará,0.64,0.36,23,12,8,7,0.54,0.46,Estadio Cicero Pompeu de Toledo (Morumbi),Brasileirão Série A,/pt-br/match/2204926
+2021-10-13,Internacional,3,1,América-MG,0.49,0.51,10,10,6,2,0.49,0.51,Estadio Beira-Rio,Brasileirão Série A,/pt-br/match/2204924
+2021-10-13,Corinthians,1,0,Fluminense,0.54,0.46,8,13,1,4,0.4,0.6,Neo Química Arena,Brasileirão Série A,/pt-br/match/2204920
+2021-10-13,Fortaleza,1,0,Grêmio,0.47,0.53,22,13,8,5,0.48,0.52,Castelão,Brasileirão Série A,/pt-br/match/2204923
+2021-10-13,Atlético-MG,3,1,Santos,0.6,0.4,14,5,6,1,0.57,0.43,Estadio Mineirão,Brasileirão Série A,/pt-br/match/2204917
+2021-10-13,Chapecoense,1,1,Athletico Paranaense,0.37,0.63,20,14,6,3,0.5,0.5,Arena Condá,Brasileirão Série A,/pt-br/match/2204919
+2021-10-13,Flamengo,3,1,Juventude,0.64,0.36,14,10,6,2,0.51,0.49,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2204922
+2021-12-10,Bahia,0,0,Palmeiras,0.52,0.48,17,9,5,2,0.38,0.62,Arena Fonte Nova,Brasileirão Série A,/pt-br/match/2204918
+2021-12-10,Red Bull Bragantino,1,0,Atlético-GO,0.39,0.61,11,5,3,3,0.57,0.43,Estádio Nabi Abi Chedid,Brasileirão Série A,/pt-br/match/2204925
+2021-11-10,Cuiabá,0,0,São Paulo,0.34,0.66,15,9,6,2,0.56,0.44,Arena Pantanal,Brasileirão Série A,/pt-br/match/2204915
+2021-10-10,Santos,1,0,Grêmio,0.6,0.4,13,8,5,3,0.51,0.49,Estádio Vila Belmiro (Urbano Caldeira),Brasileirão Série A,/pt-br/match/2204909
+2021-10-10,Internacional,5,2,Chapecoense,0.51,0.49,15,10,11,4,0.51,0.5,Estadio Beira-Rio,Brasileirão Série A,/pt-br/match/2204912
+2021-09-10,Juventude,1,1,América-MG,0.59,0.41,14,10,5,2,0.53,0.47,Alfredo Jaconi,Brasileirão Série A,/pt-br/match/2204913
+2021-09-10,Palmeiras,2,4,Red Bull Bragantino,0.56,0.44,20,12,6,6,0.47,0.53,Allianz Parque,Brasileirão Série A,/pt-br/match/2204914
+2021-09-10,Athletico Paranaense,0,2,Bahia,0.59,0.41,16,8,3,4,0.47,0.53,Arena da Baixada,Brasileirão Série A,/pt-br/match/2204907
+2021-09-10,Fortaleza,0,3,Flamengo,0.39,0.61,6,13,2,6,0.57,0.43,Castelão,Brasileirão Série A,/pt-br/match/2204911
+2021-09-10,Sport Recife,1,0,Corinthians,0.33,0.67,11,9,3,3,0.45,0.55,Arena Pernambuco,Brasileirão Série A,/pt-br/match/2204916
+2021-09-10,Atlético-MG,3,1,Ceará,0.55,0.45,12,11,4,5,0.48,0.52,Estadio Mineirão,Brasileirão Série A,/pt-br/match/2204908
+2021-09-10,Fluminense,0,0,Atlético-GO,0.53,0.47,14,11,1,2,0.53,0.47,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2204910
+2021-07-10,São Paulo,1,1,Santos,0.61,0.39,14,6,3,3,0.53,0.47,Estadio Cicero Pompeu de Toledo (Morumbi),Brasileirão Série A,/pt-br/match/2204897
+2021-06-10,Fluminense,0,2,Fortaleza,0.54,0.46,8,10,3,4,0.65,0.36,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2204902
+2021-06-10,Grêmio,2,2,Cuiabá,0.63,0.37,20,5,7,2,0.51,0.49,Grêmio Arena,Brasileirão Série A,/pt-br/match/2204903
+2021-06-10,América-MG,2,1,Palmeiras,0.61,0.39,27,14,6,5,0.48,0.52,Estádio Raimundo Sampaio (Independência),Brasileirão Série A,/pt-br/match/2204906
+2021-06-10,Red Bull Bragantino,1,1,Flamengo,0.42,0.58,13,11,4,3,0.52,0.48,Estádio Nabi Abi Chedid,Brasileirão Série A,/pt-br/match/2204904
+2021-06-10,Atlético-GO,0,2,Athletico Paranaense,0.61,0.39,15,12,3,4,0.51,0.49,Estádio Antônio Accioly,Brasileirão Série A,/pt-br/match/2204898
+2021-06-10,Ceará,0,0,Internacional,0.48,0.52,16,9,5,1,0.49,0.52,Castelão,Brasileirão Série A,/pt-br/match/2204899
+2021-06-10,Chapecoense,2,2,Atlético-MG,0.34,0.66,10,16,4,5,0.51,0.49,Arena Condá,Brasileirão Série A,/pt-br/match/2204900
+2021-06-10,Sport Recife,3,1,Juventude,0.44,0.56,14,9,8,1,0.56,0.44,Arena Pernambuco,Brasileirão Série A,/pt-br/match/2204905
+2021-05-10,Corinthians,3,1,Bahia,0.72,0.28,21,3,11,2,0.52,0.48,Neo Química Arena,Brasileirão Série A,/pt-br/match/2204901
+2021-10-27,Santos,2,0,Fluminense,0.44,0.56,11,17,5,4,0.47,0.53,Estádio Vila Belmiro (Urbano Caldeira),Brasileirão Série A,/pt-br/match/2204887
+2021-10-27,Bahia,1,1,Ceará,0.55,0.45,13,9,7,4,0.44,0.56,Arena Fonte Nova,Brasileirão Série A,/pt-br/match/2204888
+2021-03-10,Grêmio,1,2,Sport Recife,0.65,0.35,22,9,7,6,0.51,0.49,Grêmio Arena,Brasileirão Série A,/pt-br/match/2204893
+2021-03-10,Palmeiras,1,1,Juventude,0.74,0.26,15,10,3,4,0.54,0.46,Allianz Parque,Brasileirão Série A,/pt-br/match/2204894
+2021-03-10,Flamengo,3,0,Athletico Paranaense,0.72,0.28,11,9,4,2,0.61,0.39,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2204891
+2021-03-10,Chapecoense,1,1,São Paulo,0.37,0.63,6,17,2,8,0.44,0.56,Arena Condá,Brasileirão Série A,/pt-br/match/2204896
+2021-02-10,Atlético-MG,1,0,Internacional,0.57,0.43,10,6,3,4,0.49,0.51,Estadio Mineirão,Brasileirão Série A,/pt-br/match/2204889
+2021-02-10,Red Bull Bragantino,2,2,Corinthians,0.38,0.62,15,11,5,7,0.43,0.57,Estádio Nabi Abi Chedid,Brasileirão Série A,/pt-br/match/2204895
+2021-02-10,Cuiabá,0,2,América-MG,0.53,0.47,14,9,3,2,0.54,0.46,Arena Pantanal,Brasileirão Série A,/pt-br/match/2204890
+2021-02-10,Fortaleza,0,3,Atlético-GO,0.68,0.32,14,6,4,5,0.52,0.48,Castelão,Brasileirão Série A,/pt-br/match/2204892
+2021-09-26,Atlético-GO,0,0,Cuiabá,0.57,0.43,16,6,3,2,0.45,0.55,Estádio Antônio Accioly,Brasileirão Série A,/pt-br/match/2204879
+2021-09-26,Athletico Paranaense,4,2,Grêmio,0.54,0.46,16,15,5,7,0.52,0.49,Arena da Baixada,Brasileirão Série A,/pt-br/match/2204878
+2021-09-26,Sport Recife,0,1,Fortaleza,0.57,0.43,18,15,5,7,0.44,0.56,Arena Pernambuco,Brasileirão Série A,/pt-br/match/2204885
+2021-09-26,Fluminense,2,1,Red Bull Bragantino,0.43,0.57,16,7,6,4,0.57,0.43,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2204882
+2021-09-26,Internacional,2,0,Bahia,0.58,0.42,12,15,7,2,0.52,0.48,Estadio Beira-Rio,Brasileirão Série A,/pt-br/match/2204883
+2021-09-26,Juventude,3,0,Santos,0.37,0.63,6,19,4,3,0.53,0.47,Alfredo Jaconi,Brasileirão Série A,/pt-br/match/2204884
+2021-09-26,América-MG,1,1,Flamengo,0.42,0.58,15,9,2,5,0.58,0.42,Estádio Raimundo Sampaio (Independência),Brasileirão Série A,/pt-br/match/2204877
+2021-09-25,São Paulo,0,0,Atlético-MG,0.49,0.51,7,11,0,4,0.51,0.49,Estadio Cicero Pompeu de Toledo (Morumbi),Brasileirão Série A,/pt-br/match/2204886
+2021-09-25,Corinthians,2,1,Palmeiras,0.49,0.51,8,16,3,5,0.49,0.51,Neo Química Arena,Brasileirão Série A,/pt-br/match/2204881
+2021-09-25,Ceará,1,0,Chapecoense,0.59,0.41,24,9,8,1,0.62,0.38,Castelão,Brasileirão Série A,/pt-br/match/2204880
+2021-09-20,Cuiabá,2,2,Fluminense,0.59,0.41,7,12,3,5,0.47,0.54,Arena Pantanal,Brasileirão Série A,/pt-br/match/2204873
+2021-09-19,Flamengo,0,1,Grêmio,0.62,0.38,9,11,1,5,0.44,0.56,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2204874
+2021-09-19,Corinthians,1,1,América-MG,0.65,0.35,15,16,8,7,0.55,0.45,Neo Química Arena,Brasileirão Série A,/pt-br/match/2204872
+2021-09-19,São Paulo,2,1,Atlético-GO,0.52,0.48,13,11,5,4,0.5,0.5,Estadio Cicero Pompeu de Toledo (Morumbi),Brasileirão Série A,/pt-br/match/2204876
+2021-09-19,Internacional,1,0,Fortaleza,0.59,0.41,18,11,5,5,0.47,0.53,Estadio Beira-Rio,Brasileirão Série A,/pt-br/match/2204875
+2021-09-18,Bahia,1,1,Red Bull Bragantino,0.41,0.59,13,15,3,5,0.56,0.44,Arena Fonte Nova,Brasileirão Série A,/pt-br/match/2204869
+2021-09-18,Ceará,0,0,Santos,0.51,0.49,10,7,4,1,0.56,0.44,Castelão,Brasileirão Série A,/pt-br/match/2204870
+2021-09-18,Atlético-MG,3,0,Sport Recife,0.6,0.4,22,7,9,1,0.54,0.46,Estadio Mineirão,Brasileirão Série A,/pt-br/match/2204868
+2021-09-18,Athletico Paranaense,2,1,Juventude,0.6,0.4,27,15,7,3,0.43,0.57,Arena da Baixada,Brasileirão Série A,/pt-br/match/2204867
+2021-09-18,Chapecoense,0,2,Palmeiras,0.54,0.46,15,13,3,7,0.51,0.5,Arena Condá,Brasileirão Série A,/pt-br/match/2204871
+2021-09-13,Sport Recife,0,1,Internacional,0.51,0.49,14,11,3,4,0.42,0.58,Ilha do Retiro,Brasileirão Série A,/pt-br/match/2204858
+2021-12-09,Fluminense,2,1,São Paulo,0.42,0.58,8,8,5,7,0.49,0.51,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2204857
+2021-12-09,Atlético-GO,1,1,Corinthians,0.52,0.48,11,8,5,2,0.5,0.5,Estádio Antônio Accioly,Brasileirão Série A,/pt-br/match/2204859
+2021-12-09,Fortaleza,0,2,Atlético-MG,0.48,0.52,14,11,4,4,0.54,0.46,Castelão,Brasileirão Série A,/pt-br/match/2204860
+2021-12-09,Palmeiras,1,3,Flamengo,0.59,0.41,12,11,5,4,0.49,0.52,Allianz Parque,Brasileirão Série A,/pt-br/match/2204863
+2021-12-09,Grêmio,2,0,Ceará,0.41,0.59,13,8,3,1,0.46,0.54,Grêmio Arena,Brasileirão Série A,/pt-br/match/2204861
+2021-11-09,Santos,0,0,Bahia,0.65,0.35,10,13,1,4,0.52,0.48,Estádio Vila Belmiro (Urbano Caldeira),Brasileirão Série A,/pt-br/match/2204865
+2021-11-09,Red Bull Bragantino,1,2,Chapecoense,0.56,0.44,12,22,5,6,0.42,0.59,Estádio Nabi Abi Chedid,Brasileirão Série A,/pt-br/match/2204864
+2021-11-09,Juventude,1,2,Cuiabá,0.63,0.37,17,3,6,1,0.52,0.48,Alfredo Jaconi,Brasileirão Série A,/pt-br/match/2204862
+2021-11-09,América-MG,2,0,Athletico Paranaense,0.56,0.44,27,7,6,1,0.57,0.43,Estádio Raimundo Sampaio (Independência),Brasileirão Série A,/pt-br/match/2204866
+2021-05-11,Flamengo,2,0,Atlético-GO,0.52,0.48,23,10,7,2,0.59,0.41,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2204854
+2021-03-11,Atlético-MG,2,1,Grêmio,0.53,0.47,15,14,4,5,0.55,0.46,Estadio Mineirão,Brasileirão Série A,/pt-br/match/2204848
+2021-10-21,Internacional,1,1,Red Bull Bragantino,0.42,0.58,9,15,4,6,0.49,0.51,Estadio Beira-Rio,Brasileirão Série A,/pt-br/match/2204847
+2021-10-20,Ceará,1,2,Palmeiras,0.47,0.53,14,12,5,5,0.38,0.62,Castelão,Brasileirão Série A,/pt-br/match/2204850
+2021-09-22,São Paulo,0,0,América-MG,0.59,0.41,6,9,2,4,0.5,0.5,Estadio Cicero Pompeu de Toledo (Morumbi),Brasileirão Série A,/pt-br/match/2204853
+2021-07-09,Chapecoense,1,2,Fluminense,0.55,0.45,11,9,3,2,0.46,0.54,Arena Condá,Brasileirão Série A,/pt-br/match/2204851
+2021-07-09,Corinthians,1,1,Juventude,0.59,0.41,11,12,2,7,0.46,0.54,Neo Química Arena,Brasileirão Série A,/pt-br/match/2204852
+2021-05-09,Athletico Paranaense,0,0,Sport Recife,0.59,0.41,16,9,3,2,0.57,0.43,Arena da Baixada,Brasileirão Série A,/pt-br/match/2204855
+2021-04-09,Bahia,4,2,Fortaleza,0.4,0.6,13,18,8,6,0.41,0.59,Estádio Roberto Santos (Pituaçu),Brasileirão Série A,/pt-br/match/2204849
+2021-04-09,Cuiabá,2,1,Santos,0.36,0.64,14,18,5,5,0.42,0.58,Arena Pantanal,Brasileirão Série A,/pt-br/match/2204856
+2021-08-30,Fortaleza,0,0,Cuiabá,0.65,0.35,19,11,4,5,0.5,0.5,Castelão,Brasileirão Série A,/pt-br/match/2204840
+2021-08-30,Fluminense,2,0,Bahia,0.48,0.52,6,10,4,2,0.43,0.58,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2204839
+2021-08-29,Red Bull Bragantino,1,1,Atlético-MG,0.33,0.67,5,26,0,8,0.5,0.51,Estádio Nabi Abi Chedid,Brasileirão Série A,/pt-br/match/2204844
+2021-08-29,Atlético-GO,0,0,Internacional,0.52,0.48,8,7,3,3,0.55,0.45,Estádio Antônio Accioly,Brasileirão Série A,/pt-br/match/2204838
+2021-08-29,Juventude,1,1,São Paulo,0.39,0.61,9,7,2,4,0.52,0.48,Alfredo Jaconi,Brasileirão Série A,/pt-br/match/2204842
+2021-08-29,América-MG,2,0,Ceará,0.38,0.62,19,6,4,2,0.51,0.49,Estádio Raimundo Sampaio (Independência),Brasileirão Série A,/pt-br/match/2204841
+2021-08-28,Palmeiras,2,1,Athletico Paranaense,0.49,0.51,16,11,3,4,0.55,0.45,Allianz Parque,Brasileirão Série A,/pt-br/match/2204843
+2021-08-28,Grêmio,0,1,Corinthians,0.44,0.56,11,6,2,1,0.43,0.57,Grêmio Arena,Brasileirão Série A,/pt-br/match/2204846
+2021-08-28,Santos,0,4,Flamengo,0.49,0.51,11,18,2,11,0.44,0.57,Estádio Vila Belmiro (Urbano Caldeira),Brasileirão Série A,/pt-br/match/2204845
+2021-08-28,Sport Recife,0,0,Chapecoense,0.55,0.45,20,15,7,2,0.55,0.45,Ilha do Retiro,Brasileirão Série A,/pt-br/match/2204837
+2021-08-23,América-MG,0,2,Red Bull Bragantino,0.51,0.49,14,10,3,3,0.39,0.61,Estádio Raimundo Sampaio (Independência),Brasileirão Série A,/pt-br/match/2204829
+2021-08-23,Fluminense,1,1,Atlético-MG,0.34,0.66,9,19,3,7,0.5,0.51,São Januario,Brasileirão Série A,/pt-br/match/2204831
+2021-08-22,Sport Recife,0,1,São Paulo,0.48,0.52,15,12,4,3,0.39,0.61,Ilha do Retiro,Brasileirão Série A,/pt-br/match/2204836
+2021-08-22,Santos,2,2,Internacional,0.52,0.48,10,13,4,4,0.57,0.43,Estádio Vila Belmiro (Urbano Caldeira),Brasileirão Série A,/pt-br/match/2204835
+2021-08-22,Athletico Paranaense,0,1,Corinthians,0.44,0.56,16,8,4,2,0.49,0.51,Arena da Baixada,Brasileirão Série A,/pt-br/match/2204828
+2021-08-22,Ceará,1,1,Flamengo,0.37,0.63,12,18,5,5,0.45,0.55,Castelão,Brasileirão Série A,/pt-br/match/2204830
+2021-08-22,Palmeiras,0,2,Cuiabá,0.66,0.34,31,9,7,4,0.57,0.43,Allianz Parque,Brasileirão Série A,/pt-br/match/2204834
+2021-08-21,Juventude,1,1,Fortaleza,0.56,0.44,19,16,4,4,0.49,0.51,Alfredo Jaconi,Brasileirão Série A,/pt-br/match/2204833
+2021-08-21,Grêmio,2,0,Bahia,0.53,0.47,15,9,6,3,0.56,0.44,Grêmio Arena,Brasileirão Série A,/pt-br/match/2204832
+2021-08-21,Atlético-GO,1,1,Chapecoense,0.7,0.3,16,8,2,2,0.58,0.42,Estádio Antônio Accioly,Brasileirão Série A,/pt-br/match/2204827
+2021-08-16,Chapecoense,1,1,América-MG,0.41,0.59,10,18,5,6,0.53,0.47,Arena Condá,Brasileirão Série A,/pt-br/match/2204819
+2021-08-15,Internacional,4,2,Fluminense,0.35,0.65,17,10,7,5,0.49,0.52,Estadio Beira-Rio,Brasileirão Série A,/pt-br/match/2204824
+2021-08-15,Bahia,1,2,Atlético-GO,0.54,0.46,16,12,8,3,0.52,0.49,Estádio Roberto Santos (Pituaçu),Brasileirão Série A,/pt-br/match/2204818
+2021-08-15,Cuiabá,1,0,Athletico Paranaense,0.39,0.61,12,9,2,1,0.51,0.49,Arena Pantanal,Brasileirão Série A,/pt-br/match/2204821
+2021-08-15,Fortaleza,1,1,Santos,0.45,0.55,12,8,2,2,0.45,0.55,Castelão,Brasileirão Série A,/pt-br/match/2204823
+2021-08-15,Corinthians,3,1,Ceará,0.61,0.39,7,15,3,6,0.5,0.5,Neo Química Arena,Brasileirão Série A,/pt-br/match/2204820
+2021-08-15,Flamengo,2,0,Sport Recife,0.65,0.35,17,4,9,2,0.48,0.52,Estádio Raulino de Oliveira,Brasileirão Série A,/pt-br/match/2204822
+2021-08-14,São Paulo,2,1,Grêmio,0.64,0.36,12,9,6,3,0.47,0.53,Estadio Cicero Pompeu de Toledo (Morumbi),Brasileirão Série A,/pt-br/match/2204826
+2021-08-14,Atlético-MG,2,0,Palmeiras,0.67,0.33,15,1,6,1,0.58,0.42,Estadio Mineirão,Brasileirão Série A,/pt-br/match/2204817
+2021-08-14,Red Bull Bragantino,1,2,Juventude,0.54,0.46,5,13,1,6,0.5,0.5,Estádio Nabi Abi Chedid,Brasileirão Série A,/pt-br/match/2204825
+2021-09-08,Grêmio,2,1,Chapecoense,0.54,0.46,20,6,3,2,0.49,0.51,Grêmio Arena,Brasileirão Série A,/pt-br/match/2204812
+2021-08-08,Flamengo,0,4,Internacional,0.64,0.36,11,9,7,5,0.55,0.45,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2204811
+2021-08-08,Ceará,0,0,Atlético-GO,0.41,0.59,19,7,5,2,0.5,0.5,Castelão,Brasileirão Série A,/pt-br/match/2204815
+2021-08-08,Juventude,1,2,Atlético-MG,0.34,0.66,6,20,1,4,0.5,0.5,Alfredo Jaconi,Brasileirão Série A,/pt-br/match/2204813
+2021-08-08,América-MG,1,0,Fluminense,0.44,0.56,15,7,7,2,0.47,0.53,Estádio Raimundo Sampaio (Independência),Brasileirão Série A,/pt-br/match/2204807
+2021-08-08,Santos,0,0,Corinthians,0.57,0.43,11,9,5,5,0.43,0.57,Estádio Vila Belmiro (Urbano Caldeira),Brasileirão Série A,/pt-br/match/2204809
+2021-07-08,Cuiabá,1,1,Bahia,0.4,0.6,11,9,2,4,0.53,0.47,Arena Pantanal,Brasileirão Série A,/pt-br/match/2204810
+2021-07-08,Palmeiras,2,3,Fortaleza,0.62,0.38,20,15,2,6,0.43,0.57,Allianz Parque,Brasileirão Série A,/pt-br/match/2204814
+2021-07-08,Athletico Paranaense,1,2,São Paulo,0.52,0.48,15,11,6,4,0.5,0.5,Arena da Baixada,Brasileirão Série A,/pt-br/match/2204808
+2021-06-08,Sport Recife,0,0,Red Bull Bragantino,0.38,0.62,17,13,7,4,0.54,0.46,Ilha do Retiro,Brasileirão Série A,/pt-br/match/2204816
+2021-02-09,Fluminense,1,1,Juventude,0.64,0.36,12,7,6,2,0.46,0.54,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2204803
+2021-01-08,Ceará,3,1,Fortaleza,0.48,0.52,12,28,4,8,0.48,0.52,Castelão,Brasileirão Série A,/pt-br/match/2204800
+2021-01-08,Atlético-GO,1,1,América-MG,0.53,0.47,7,16,2,5,0.47,0.54,Estádio Antônio Accioly,Brasileirão Série A,/pt-br/match/2204806
+2021-01-08,Bahia,0,1,Sport Recife,0.6,0.4,21,8,4,2,0.51,0.5,Estádio Roberto Santos (Pituaçu),Brasileirão Série A,/pt-br/match/2204799
+2021-01-08,Chapecoense,0,1,Santos,0.44,0.56,20,11,6,5,0.54,0.46,Arena Condá,Brasileirão Série A,/pt-br/match/2204801
+2021-01-08,Atlético-MG,2,0,Athletico Paranaense,0.61,0.39,11,8,3,1,0.47,0.53,Estadio Mineirão,Brasileirão Série A,/pt-br/match/2204798
+2021-01-08,Corinthians,1,3,Flamengo,0.34,0.66,9,17,3,7,0.54,0.46,Neo Química Arena,Brasileirão Série A,/pt-br/match/2204802
+2021-07-31,Red Bull Bragantino,1,0,Grêmio,0.53,0.47,12,7,3,1,0.55,0.45,Estádio Nabi Abi Chedid,Brasileirão Série A,/pt-br/match/2204805
+2021-07-31,Internacional,0,0,Cuiabá,0.58,0.42,12,13,3,4,0.58,0.43,Estadio Beira-Rio,Brasileirão Série A,/pt-br/match/2204804
+2021-07-31,São Paulo,0,0,Palmeiras,0.54,0.46,12,7,3,3,0.44,0.56,Estadio Cicero Pompeu de Toledo (Morumbi),Brasileirão Série A,/pt-br/match/2204797
+2021-07-26,Cuiabá,1,2,Corinthians,0.53,0.47,16,4,7,2,0.5,0.5,Arena Pantanal,Brasileirão Série A,/pt-br/match/2204789
+2021-07-26,Juventude,1,0,Chapecoense,0.32,0.68,13,7,2,2,0.47,0.54,Alfredo Jaconi,Brasileirão Série A,/pt-br/match/2204793
+2021-07-25,Sport Recife,0,0,Ceará,0.55,0.45,12,14,0,0,0.47,0.53,Ilha do Retiro,Brasileirão Série A,/pt-br/match/2204787
+2021-07-25,Athletico Paranaense,2,1,Internacional,0.53,0.47,11,13,4,3,0.5,0.51,Arena da Baixada,Brasileirão Série A,/pt-br/match/2204791
+2021-07-25,Santos,0,1,Atlético-GO,0.75,0.25,29,7,2,2,0.5,0.51,Estádio Vila Belmiro (Urbano Caldeira),Brasileirão Série A,/pt-br/match/2204795
+2021-07-25,Flamengo,5,1,São Paulo,0.58,0.42,12,18,8,6,0.55,0.45,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2204790
+2021-07-25,Fortaleza,1,0,Red Bull Bragantino,0.34,0.66,14,13,4,4,0.46,0.54,Castelão,Brasileirão Série A,/pt-br/match/2204796
+2021-07-25,Atlético-MG,3,0,Bahia,0.6,0.4,12,11,5,5,0.46,0.54,Estadio Mineirão,Brasileirão Série A,/pt-br/match/2204788
+2021-07-24,Palmeiras,1,0,Fluminense,0.5,0.5,10,9,1,3,0.49,0.51,Allianz Parque,Brasileirão Série A,/pt-br/match/2204794
+2021-07-24,Grêmio,1,1,América-MG,0.52,0.48,12,18,4,7,0.51,0.49,Grêmio Arena,Brasileirão Série A,/pt-br/match/2204792
+2021-07-19,América-MG,0,1,Sport Recife,0.64,0.36,16,11,3,5,0.53,0.47,Estádio Raimundo Sampaio (Independência),Brasileirão Série A,/pt-br/match/2204777
+2021-07-18,Internacional,1,0,Juventude,0.51,0.49,14,11,5,4,0.5,0.5,Estadio Beira-Rio,Brasileirão Série A,/pt-br/match/2204784
+2021-07-18,Red Bull Bragantino,2,2,Santos,0.39,0.61,11,16,5,5,0.53,0.47,Estádio Nabi Abi Chedid,Brasileirão Série A,/pt-br/match/2204785
+2021-07-18,Bahia,0,5,Flamengo,0.35,0.65,11,16,3,10,0.43,0.57,Arena Fonte Nova,Brasileirão Série A,/pt-br/match/2204779
+2021-07-18,Atlético-GO,0,3,Palmeiras,0.58,0.42,11,15,1,6,0.46,0.54,Estádio Serra Dourada,Brasileirão Série A,/pt-br/match/2204778
+2021-07-18,Chapecoense,2,3,Cuiabá,0.41,0.59,11,11,6,6,0.51,0.49,Arena Condá,Brasileirão Série A,/pt-br/match/2204781
+2021-07-17,Fluminense,0,1,Grêmio,0.57,0.43,10,8,2,1,0.46,0.54,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2204783
+2021-07-17,Corinthians,1,2,Atlético-MG,0.37,0.63,12,13,2,8,0.59,0.41,Neo Química Arena,Brasileirão Série A,/pt-br/match/2204782
+2021-07-17,Ceará,1,0,Athletico Paranaense,0.53,0.47,21,9,4,1,0.61,0.4,Castelão,Brasileirão Série A,/pt-br/match/2204780
+2021-07-17,São Paulo,0,1,Fortaleza,0.59,0.41,10,9,3,4,0.45,0.55,Estadio Cicero Pompeu de Toledo (Morumbi),Brasileirão Série A,/pt-br/match/2204786
+2021-11-07,Fortaleza,1,0,Corinthians,0.43,0.57,16,7,4,1,0.52,0.48,Castelão,Brasileirão Série A,/pt-br/match/2204771
+2021-11-07,Cuiabá,2,2,Ceará,0.41,0.59,11,20,3,7,0.47,0.53,Arena Pantanal,Brasileirão Série A,/pt-br/match/2204769
+2021-11-07,Flamengo,2,1,Chapecoense,0.72,0.28,24,13,7,4,0.5,0.5,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2204770
+2021-11-07,Juventude,1,1,Atlético-GO,0.51,0.49,15,8,3,4,0.51,0.5,Alfredo Jaconi,Brasileirão Série A,/pt-br/match/2204773
+2021-10-07,América-MG,0,1,Atlético-MG,0.49,0.51,12,13,2,5,0.46,0.54,Estádio Raimundo Sampaio (Independência),Brasileirão Série A,/pt-br/match/2204767
+2021-10-07,Sport Recife,1,2,Fluminense,0.49,0.51,11,13,3,9,0.44,0.56,Ilha do Retiro,Brasileirão Série A,/pt-br/match/2204775
+2021-10-07,São Paulo,1,0,Bahia,0.63,0.37,15,6,6,2,0.47,0.53,Estadio Cicero Pompeu de Toledo (Morumbi),Brasileirão Série A,/pt-br/match/2204776
+2021-10-07,Athletico Paranaense,2,2,Red Bull Bragantino,0.55,0.45,22,16,6,4,0.49,0.51,Arena da Baixada,Brasileirão Série A,/pt-br/match/2204768
+2021-10-07,Grêmio,0,0,Internacional,0.51,0.49,11,16,2,8,0.5,0.5,Grêmio Arena,Brasileirão Série A,/pt-br/match/2204772
+2021-10-07,Palmeiras,3,2,Santos,0.35,0.65,14,12,7,2,0.55,0.45,Allianz Parque,Brasileirão Série A,/pt-br/match/2204774
+2021-08-07,Chapecoense,0,1,Corinthians,0.42,0.58,14,12,4,5,0.44,0.56,Arena Condá,Brasileirão Série A,/pt-br/match/2204760
+2021-07-07,Fluminense,0,0,Ceará,0.64,0.36,16,7,5,2,0.45,0.55,São Januario,Brasileirão Série A,/pt-br/match/2204761
+2021-07-07,Internacional,0,2,São Paulo,0.52,0.48,9,11,2,5,0.51,0.49,Estadio Beira-Rio,Brasileirão Série A,/pt-br/match/2204763
+2021-07-07,Atlético-GO,1,1,Sport Recife,0.57,0.43,13,11,4,3,0.56,0.44,Estádio Antônio Accioly,Brasileirão Série A,/pt-br/match/2204757
+2021-07-07,Atlético-MG,2,1,Flamengo,0.49,0.51,12,16,6,6,0.37,0.63,Estadio Mineirão,Brasileirão Série A,/pt-br/match/2204758
+2021-07-07,Palmeiras,2,0,Grêmio,0.47,0.53,18,12,6,4,0.51,0.49,Allianz Parque,Brasileirão Série A,/pt-br/match/2204764
+2021-07-07,Red Bull Bragantino,1,1,Cuiabá,0.54,0.46,10,9,1,2,0.58,0.42,Estádio Nabi Abi Chedid,Brasileirão Série A,/pt-br/match/2204759
+2021-07-07,Fortaleza,4,0,América-MG,0.56,0.44,16,11,5,3,0.59,0.41,Castelão,Brasileirão Série A,/pt-br/match/2204762
+2021-07-07,Bahia,1,0,Juventude,0.53,0.47,8,9,2,3,0.44,0.56,Estádio Roberto Santos (Pituaçu),Brasileirão Série A,/pt-br/match/2204765
+2021-06-07,Santos,2,1,Athletico Paranaense,0.54,0.46,18,11,9,2,0.46,0.54,Estádio Vila Belmiro (Urbano Caldeira),Brasileirão Série A,/pt-br/match/2204766
+2021-04-07,Grêmio,0,1,Atlético-GO,0.63,0.37,21,10,4,5,0.48,0.52,Grêmio Arena,Brasileirão Série A,/pt-br/match/2204754
+2021-04-07,Ceará,2,0,Juventude,0.64,0.36,12,4,5,3,0.4,0.6,Castelão,Brasileirão Série A,/pt-br/match/2204749
+2021-04-07,Cuiabá,0,1,Atlético-MG,0.6,0.4,11,4,4,1,0.51,0.49,Arena Pantanal,Brasileirão Série A,/pt-br/match/2204752
+2021-04-07,São Paulo,1,2,Red Bull Bragantino,0.48,0.52,9,12,6,5,0.51,0.49,Estadio Cicero Pompeu de Toledo (Morumbi),Brasileirão Série A,/pt-br/match/2204753
+2021-04-07,Sport Recife,0,1,Palmeiras,0.49,0.51,13,14,1,5,0.42,0.58,Ilha do Retiro,Brasileirão Série A,/pt-br/match/2204755
+2021-04-07,Flamengo,0,1,Fluminense,0.67,0.33,21,11,4,5,0.6,0.4,Neo Química Arena,Brasileirão Série A,/pt-br/match/2204756
+2021-04-07,Chapecoense,0,2,Bahia,0.47,0.53,7,13,1,6,0.5,0.5,Arena Condá,Brasileirão Série A,/pt-br/match/2204750
+2021-03-07,Corinthians,1,1,Internacional,0.58,0.42,20,7,9,3,0.52,0.48,Neo Química Arena,Brasileirão Série A,/pt-br/match/2204751
+2021-03-07,América-MG,2,0,Santos,0.27,0.73,8,21,4,8,0.55,0.45,Estádio Raimundo Sampaio (Independência),Brasileirão Série A,/pt-br/match/2204747
+2021-03-07,Athletico Paranaense,2,1,Fortaleza,0.41,0.59,16,15,8,4,0.49,0.52,Arena da Baixada,Brasileirão Série A,/pt-br/match/2204748
+2021-01-07,Cuiabá,0,2,Flamengo,0.43,0.57,9,12,2,5,0.51,0.49,Arena Pantanal,Brasileirão Série A,/pt-br/match/2204740
+2021-01-07,Atlético-MG,4,1,Atlético-GO,0.46,0.54,19,7,9,3,0.49,0.51,Estadio Mineirão,Brasileirão Série A,/pt-br/match/2204741
+2021-01-07,Red Bull Bragantino,0,0,Ceará,0.65,0.35,13,8,2,3,0.55,0.45,Estádio Nabi Abi Chedid,Brasileirão Série A,/pt-br/match/2204745
+2021-06-30,Corinthians,0,0,São Paulo,0.41,0.59,10,8,3,3,0.52,0.48,Neo Química Arena,Brasileirão Série A,/pt-br/match/2204739
+2021-06-30,Juventude,2,0,Grêmio,0.3,0.7,11,13,5,3,0.43,0.57,Alfredo Jaconi,Brasileirão Série A,/pt-br/match/2204744
+2021-06-30,Santos,0,0,Sport Recife,0.68,0.32,13,8,1,2,0.53,0.47,Estádio Vila Belmiro (Urbano Caldeira),Brasileirão Série A,/pt-br/match/2204746
+2021-06-30,Bahia,3,4,América-MG,0.72,0.28,20,16,7,8,0.52,0.48,Estádio Roberto Santos (Pituaçu),Brasileirão Série A,/pt-br/match/2204738
+2021-06-30,Internacional,1,2,Palmeiras,0.67,0.33,16,14,5,6,0.54,0.46,Estadio Beira-Rio,Brasileirão Série A,/pt-br/match/2204743
+2021-06-30,Fluminense,1,4,Athletico Paranaense,0.56,0.44,12,11,4,5,0.43,0.57,Estádio Raulino de Oliveira,Brasileirão Série A,/pt-br/match/2204737
+2021-06-30,Fortaleza,3,2,Chapecoense,0.64,0.36,22,9,10,5,0.53,0.48,Castelão,Brasileirão Série A,/pt-br/match/2204742
+2021-06-28,Atlético-GO,0,1,Red Bull Bragantino,0.42,0.58,12,12,2,5,0.42,0.58,Estádio Antônio Accioly,Brasileirão Série A,/pt-br/match/2204729
+2021-06-27,América-MG,1,1,Internacional,0.4,0.6,13,10,6,3,0.56,0.44,Estádio Raimundo Sampaio (Independência),Brasileirão Série A,/pt-br/match/2204727
+2021-06-27,Ceará,1,1,São Paulo,0.36,0.64,18,11,7,2,0.43,0.57,Castelão,Brasileirão Série A,/pt-br/match/2204730
+2021-06-27,Santos,2,0,Atlético-MG,0.49,0.51,11,11,6,3,0.53,0.47,Estádio Vila Belmiro (Urbano Caldeira),Brasileirão Série A,/pt-br/match/2204735
+2021-06-27,Sport Recife,0,0,Cuiabá,0.44,0.56,8,12,1,3,0.55,0.45,Ilha do Retiro,Brasileirão Série A,/pt-br/match/2204736
+2021-06-27,Athletico Paranaense,2,2,Chapecoense,0.62,0.38,18,12,5,5,0.59,0.41,Arena da Baixada,Brasileirão Série A,/pt-br/match/2204728
+2021-06-27,Grêmio,0,0,Fortaleza,0.58,0.42,18,15,5,6,0.5,0.51,Grêmio Arena,Brasileirão Série A,/pt-br/match/2204732
+2021-06-27,Palmeiras,3,2,Bahia,0.58,0.42,19,18,8,4,0.54,0.46,Allianz Parque,Brasileirão Série A,/pt-br/match/2204734
+2021-06-27,Fluminense,1,1,Corinthians,0.46,0.54,15,10,5,4,0.54,0.46,São Januario,Brasileirão Série A,/pt-br/match/2204731
+2021-06-27,Juventude,1,0,Flamengo,0.35,0.65,8,13,4,2,0.45,0.55,Alfredo Jaconi,Brasileirão Série A,/pt-br/match/2204733
+2021-06-24,Bahia,2,1,Athletico Paranaense,0.7,0.3,20,9,7,4,0.51,0.49,Estádio Roberto Santos (Pituaçu),Brasileirão Série A,/pt-br/match/2204719
+2021-06-24,Grêmio,2,2,Santos,0.47,0.53,19,6,6,3,0.49,0.52,Grêmio Arena,Brasileirão Série A,/pt-br/match/2204724
+2021-06-24,Ceará,2,1,Atlético-MG,0.33,0.67,16,16,8,6,0.55,0.45,Castelão,Brasileirão Série A,/pt-br/match/2204720
+2021-06-24,Chapecoense,1,2,Internacional,0.53,0.47,11,25,5,11,0.56,0.44,Arena Condá,Brasileirão Série A,/pt-br/match/2204721
+2021-06-24,Corinthians,2,1,Sport Recife,0.51,0.49,16,9,3,3,0.58,0.42,Neo Química Arena,Brasileirão Série A,/pt-br/match/2204722
+2021-06-24,América-MG,1,1,Juventude,0.54,0.46,12,8,2,3,0.53,0.47,Estádio Raimundo Sampaio (Independência),Brasileirão Série A,/pt-br/match/2204717
+2021-06-23,Atlético-GO,1,0,Fluminense,0.49,0.51,9,3,2,2,0.5,0.5,Estádio Antônio Accioly,Brasileirão Série A,/pt-br/match/2204718
+2021-06-23,Flamengo,2,1,Fortaleza,0.63,0.37,19,10,7,5,0.49,0.51,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2204723
+2021-06-23,Red Bull Bragantino,3,1,Palmeiras,0.47,0.53,12,17,6,5,0.45,0.55,Estádio Nabi Abi Chedid,Brasileirão Série A,/pt-br/match/2204725
+2021-06-23,São Paulo,2,2,Cuiabá,0.66,0.34,17,5,7,3,0.46,0.54,Estadio Cicero Pompeu de Toledo (Morumbi),Brasileirão Série A,/pt-br/match/2204726
+2021-08-18,Cuiabá,0,1,Grêmio,0.53,0.47,10,7,2,3,0.55,0.45,Arena Pantanal,Brasileirão Série A,/pt-br/match/2204710
+2021-06-21,Atlético-MG,1,1,Chapecoense,0.67,0.33,14,13,2,1,0.53,0.47,Estadio Mineirão,Brasileirão Série A,/pt-br/match/2204708
+2021-06-20,Juventude,1,0,Sport Recife,0.51,0.49,8,13,4,2,0.47,0.53,Alfredo Jaconi,Brasileirão Série A,/pt-br/match/2204709
+2021-06-20,Athletico Paranaense,2,1,Atlético-GO,0.49,0.51,12,10,3,3,0.5,0.5,Arena da Baixada,Brasileirão Série A,/pt-br/match/2204707
+2021-06-20,Fortaleza,1,1,Fluminense,0.63,0.37,16,4,2,3,0.53,0.47,Castelão,Brasileirão Série A,/pt-br/match/2204712
+2021-06-20,Santos,2,0,São Paulo,0.38,0.62,11,8,5,1,0.56,0.44,Estádio Vila Belmiro (Urbano Caldeira),Brasileirão Série A,/pt-br/match/2204716
+2021-06-20,Internacional,1,1,Ceará,0.62,0.38,10,14,3,2,0.5,0.5,Estadio Beira-Rio,Brasileirão Série A,/pt-br/match/2204713
+2021-06-20,Bahia,0,0,Corinthians,0.52,0.48,12,10,2,3,0.56,0.44,Estádio Roberto Santos (Pituaçu),Brasileirão Série A,/pt-br/match/2204715
+2021-06-20,Palmeiras,2,1,América-MG,0.58,0.42,15,12,6,5,0.52,0.48,Allianz Parque,Brasileirão Série A,/pt-br/match/2204714
+2021-06-19,Flamengo,2,3,Red Bull Bragantino,0.68,0.32,20,9,9,4,0.5,0.5,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2204711
+2021-02-11,Athletico Paranaense,2,2,Flamengo,0.58,0.42,21,13,5,6,0.61,0.39,Arena da Baixada,Brasileirão Série A,/pt-br/match/2204698
+2021-06-17,Sport Recife,1,0,Grêmio,0.33,0.67,10,14,4,7,0.46,0.54,Ilha do Retiro,Brasileirão Série A,/pt-br/match/2204697
+2021-06-17,Atlético-GO,0,0,Fortaleza,0.57,0.43,9,5,1,1,0.49,0.51,Estádio Antônio Accioly,Brasileirão Série A,/pt-br/match/2204699
+2021-06-17,Fluminense,1,0,Santos,0.29,0.71,9,18,5,8,0.47,0.53,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2204702
+2021-06-17,Ceará,1,2,Bahia,0.62,0.38,13,9,3,3,0.49,0.51,Castelão,Brasileirão Série A,/pt-br/match/2204700
+2021-06-17,América-MG,0,0,Cuiabá,0.57,0.43,20,8,6,3,0.44,0.56,Estádio Raimundo Sampaio (Independência),Brasileirão Série A,/pt-br/match/2204705
+2021-06-16,Juventude,0,3,Palmeiras,0.42,0.58,11,13,2,5,0.47,0.53,Alfredo Jaconi,Brasileirão Série A,/pt-br/match/2204704
+2021-06-16,Corinthians,1,2,Red Bull Bragantino,0.42,0.58,5,21,2,5,0.5,0.51,Neo Química Arena,Brasileirão Série A,/pt-br/match/2204701
+2021-06-16,Internacional,0,1,Atlético-MG,0.58,0.42,11,6,1,2,0.45,0.55,Estadio Beira-Rio,Brasileirão Série A,/pt-br/match/2204703
+2021-06-16,São Paulo,1,1,Chapecoense,0.52,0.48,13,7,3,3,0.59,0.41,Estadio Cicero Pompeu de Toledo (Morumbi),Brasileirão Série A,/pt-br/match/2204706
+2021-07-21,Cuiabá,2,1,Atlético-GO,0.56,0.44,20,9,7,3,0.5,0.51,Arena Pantanal,Brasileirão Série A,/pt-br/match/2204690
+2021-06-13,Bahia,0,1,Internacional,0.67,0.33,14,6,3,4,0.51,0.49,Estádio Roberto Santos (Pituaçu),Brasileirão Série A,/pt-br/match/2204688
+2021-06-13,Chapecoense,0,0,Ceará,0.38,0.62,8,14,3,6,0.44,0.56,Arena Condá,Brasileirão Série A,/pt-br/match/2204689
+2021-06-13,Fortaleza,1,0,Sport Recife,0.59,0.41,13,5,7,0,0.49,0.51,Castelão,Brasileirão Série A,/pt-br/match/2204692
+2021-06-13,Red Bull Bragantino,2,2,Fluminense,0.47,0.53,16,15,5,4,0.46,0.54,Estádio Nabi Abi Chedid,Brasileirão Série A,/pt-br/match/2204695
+2021-06-13,Atlético-MG,1,0,São Paulo,0.42,0.58,9,5,2,0,0.57,0.43,Estadio Mineirão,Brasileirão Série A,/pt-br/match/2204687
+2021-06-13,Flamengo,2,0,América-MG,0.65,0.35,20,9,6,1,0.52,0.48,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2204691
+2021-06-13,Grêmio,0,1,Athletico Paranaense,0.64,0.36,10,9,1,4,0.4,0.6,Grêmio Arena,Brasileirão Série A,/pt-br/match/2204693
+2021-12-06,Palmeiras,1,1,Corinthians,0.52,0.48,12,9,3,4,0.56,0.44,Allianz Parque,Brasileirão Série A,/pt-br/match/2204694
+2021-12-06,Santos,0,0,Juventude,0.76,0.24,18,2,2,0,0.52,0.49,Estádio Vila Belmiro (Urbano Caldeira),Brasileirão Série A,/pt-br/match/2204696
+2021-11-23,Grêmio,2,2,Flamengo,0.51,0.49,18,12,8,6,0.53,0.47,Grêmio Arena,Brasileirão Série A,/pt-br/match/2204681
+2021-06-06,Sport Recife,0,1,Atlético-MG,0.48,0.52,8,10,1,1,0.53,0.47,Ilha do Retiro,Brasileirão Série A,/pt-br/match/2204677
+2021-06-06,Palmeiras,3,1,Chapecoense,0.67,0.33,17,6,4,4,0.52,0.48,Allianz Parque,Brasileirão Série A,/pt-br/match/2204683
+2021-06-06,Juventude,0,3,Athletico Paranaense,0.59,0.41,13,11,1,5,0.58,0.42,Alfredo Jaconi,Brasileirão Série A,/pt-br/match/2204686
+2021-06-06,Fortaleza,5,1,Internacional,0.52,0.48,14,5,8,3,0.54,0.46,Castelão,Brasileirão Série A,/pt-br/match/2204680
+2021-06-06,América-MG,0,1,Corinthians,0.56,0.44,10,6,4,4,0.55,0.45,Estádio Raimundo Sampaio (Independência),Brasileirão Série A,/pt-br/match/2204682
+2021-06-06,Fluminense,1,0,Cuiabá,0.44,0.56,8,10,3,4,0.43,0.57,São Januario,Brasileirão Série A,/pt-br/match/2204679
+2021-05-06,Red Bull Bragantino,3,3,Bahia,0.61,0.39,24,9,6,3,0.57,0.43,Estádio Nabi Abi Chedid,Brasileirão Série A,/pt-br/match/2204684
+2021-05-06,Santos,3,1,Ceará,0.57,0.43,15,6,5,3,0.48,0.52,Estádio Vila Belmiro (Urbano Caldeira),Brasileirão Série A,/pt-br/match/2204685
+2021-05-06,Atlético-GO,2,0,São Paulo,0.38,0.62,9,14,4,3,0.44,0.56,Estádio Antônio Accioly,Brasileirão Série A,/pt-br/match/2204678
+2021-05-30,Internacional,2,2,Sport Recife,0.57,0.43,11,8,4,5,0.44,0.56,Estadio Beira-Rio,Brasileirão Série A,/pt-br/match/2204675
+2021-05-30,Athletico Paranaense,1,0,América-MG,0.57,0.43,11,14,5,4,0.52,0.48,Arena da Baixada,Brasileirão Série A,/pt-br/match/2204667
+2021-05-30,Chapecoense,0,3,Red Bull Bragantino,0.43,0.57,10,18,2,8,0.42,0.58,Arena Condá,Brasileirão Série A,/pt-br/match/2204671
+2021-05-30,Corinthians,0,1,Atlético-GO,0.61,0.39,15,7,6,2,0.46,0.54,Neo Química Arena,Brasileirão Série A,/pt-br/match/2204672
+2021-05-30,Ceará,3,2,Grêmio,0.35,0.65,12,12,6,3,0.45,0.55,Castelão,Brasileirão Série A,/pt-br/match/2204670
+2021-05-30,Flamengo,1,0,Palmeiras,0.62,0.38,14,12,10,5,0.55,0.46,Estadio do Maracanã,Brasileirão Série A,/pt-br/match/2204674
+2021-05-30,Atlético-MG,1,2,Fortaleza,0.55,0.45,13,18,4,5,0.48,0.52,Estadio Mineirão,Brasileirão Série A,/pt-br/match/2204668
+2021-05-29,São Paulo,0,0,Fluminense,0.72,0.28,7,11,3,5,0.49,0.52,Estadio Cicero Pompeu de Toledo (Morumbi),Brasileirão Série A,/pt-br/match/2204676
+2021-05-29,Bahia,3,0,Santos,0.34,0.66,5,12,3,4,0.46,0.54,Estádio Roberto Santos (Pituaçu),Brasileirão Série A,/pt-br/match/2204669
+2021-05-29,Cuiabá,2,2,Juventude,0.6,0.4,14,7,2,3,0.52,0.48,Arena Pantanal,Brasileirão Série A,/pt-br/match/2204673
